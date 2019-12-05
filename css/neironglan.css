@@ -1,0 +1,17 @@
+
+/* ————————————————————内容———————————————————— */
+
+#div_2 {
+    position: relative;
+    top: 125px;
+    left: 85px;
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    width: 60%;
+    height: 400px;
+    padding: 40px;
+    word-wrap: break-word;
+    /* 设置文本换行 */
+    word-break: break-all;
+    text-indent: 25px;
+}
